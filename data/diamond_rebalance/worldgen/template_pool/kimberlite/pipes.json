@@ -1,0 +1,77 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 24,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/pipe_d5",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 18,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/pipe_d6",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 14,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/pipe_d7",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 14,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/pipe_d8",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 9,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/neck_d5",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/neck_d6",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/neck_d7",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:kimberlite/neck_d8",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

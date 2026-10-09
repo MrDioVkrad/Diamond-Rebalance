@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#diamond_rebalance:craton",
+  "max_distance_from_center": 4,
+  "size": 1,
+  "spawn_overrides": {},
+  "start_height": {
+    "absolute": -59
+  },
+  "start_pool": "diamond_rebalance:kimberlite/pipes",
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "use_expansion_hack": false
+}

@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 813467,
+    "separation": 16,
+    "spacing": 20
+  },
+  "structures": [
+    {
+      "structure": "diamond_rebalance:magma_pocket",
+      "weight": 1
+    }
+  ]
+}

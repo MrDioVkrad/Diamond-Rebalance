@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 317953,
+    "separation": 44,
+    "spacing": 48
+  },
+  "structures": [
+    {
+      "structure": "diamond_rebalance:alluvial_riverbed",
+      "weight": 1
+    }
+  ]
+}

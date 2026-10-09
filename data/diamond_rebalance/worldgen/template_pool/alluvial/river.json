@@ -1,0 +1,23 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:alluvial/river_a",
+        "processors": "diamond_rebalance:alluvial/river_suspicious_1",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "diamond_rebalance:alluvial/river_b",
+        "processors": "diamond_rebalance:alluvial/river_suspicious_2",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

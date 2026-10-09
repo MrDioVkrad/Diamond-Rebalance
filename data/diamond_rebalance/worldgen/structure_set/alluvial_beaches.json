@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 642839,
+    "separation": 36,
+    "spacing": 40
+  },
+  "structures": [
+    {
+      "structure": "diamond_rebalance:alluvial_beach",
+      "weight": 1
+    }
+  ]
+}

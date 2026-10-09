@@ -1,0 +1,32 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:capped",
+      "limit": 2,
+      "delegate": {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "input_predicate": {
+              "predicate_type": "minecraft:tag_match",
+              "tag": "diamond_rebalance:alluvial_marker"
+            },
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "output_state": {
+              "Name": "minecraft:suspicious_sand",
+              "Properties": {
+                "dusted": "0"
+              }
+            },
+            "block_entity_modifier": {
+              "type": "minecraft:append_loot",
+              "loot_table": "diamond_rebalance:archaeology/alluvial_beach"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

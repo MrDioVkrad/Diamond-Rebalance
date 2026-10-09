@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": "Diamond Rebalance v1.3 — геологическая система алмазов для Minecraft 1.21.11. Автор: MrDioVkrad · Студия ApplyOK",
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94
+  },
+  "credits": "Author: MrDioVkrad · Studio: ApplyOK · Datapack: Diamond Rebalance v1.3 for Minecraft 1.21.11"
+}

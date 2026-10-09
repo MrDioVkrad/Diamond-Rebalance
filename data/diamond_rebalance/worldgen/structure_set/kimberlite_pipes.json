@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 528491,
+    "separation": 4,
+    "spacing": 16
+  },
+  "structures": [
+    {
+      "structure": "diamond_rebalance:kimberlite_pipe",
+      "weight": 1
+    }
+  ]
+}
