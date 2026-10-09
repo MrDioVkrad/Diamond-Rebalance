@@ -23,6 +23,8 @@ desktop.ini
 
 # Archives / Release builds (built datapacks)
 *.zip
+dist/
+build/
 
 # Test world saves
 world/
